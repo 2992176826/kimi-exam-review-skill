@@ -1,3 +1,8 @@
+# 🎓 Kimi Exam Review Skill
+
+> An AI-powered study assistant that analyzes past exam patterns to generate targeted review materials. Supports both Chinese and English.
+
+[中文介绍见下方]
 # 🎓 Kimi 通用考试复习 Skill
 
 面向全球用户的 AI 考试复习智能体技能，支持中英双语输入。
